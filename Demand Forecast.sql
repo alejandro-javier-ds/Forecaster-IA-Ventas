@@ -7,7 +7,7 @@ GO
 USE PortfolioDB;
 GO
 
-IF OBJECT_ID('dbo.Demand_Forecast', 'U') IS NOT NULL
+IF OBJECT_ID('dbo.', 'U') IS NOT NULL
     DROP TABLE dbo.Demand_Forecast;
 GO
 
